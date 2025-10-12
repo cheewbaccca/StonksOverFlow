@@ -1,0 +1,2 @@
+# StonksOverFlow
+Убийца TradingView
